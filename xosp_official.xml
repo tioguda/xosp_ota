@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <Z00A>
+            <Filename>XOSP-4.1-OFFICIAL-20160214-Z00A.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="test1">test2</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="test2">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            <XOSPAppsUrl
+            	id="xosp_apps"
+            	title="XOSPApps"
+            	description="test3">test4</BanksGappsUrl>
+	</Z00A>
+    </Stable>
+</SlimOTA>

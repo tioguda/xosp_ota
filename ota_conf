@@ -1,0 +1,38 @@
+#
+# OTA XML
+#
+# See ota_lollipop.xml for example
+#
+# Note:
+# * Multiple devices can be added in the xml file
+# * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
+#
+ota_url=https://raw.githubusercontent.com/XOSP-Project/xosp_ota/xosp-mm/xosp_official.xml
+release_type=Stable
+device_name=ro.xosp.device
+ 
+#
+# VERSION
+#
+# A version can be a date or a number with characters
+# A version source can be a 'property key' from build.prop or a 'uname -r' command line
+# If a version is a number, leave the version_format empty. Otherwise, provide the date format
+#
+# Example with a property key 'ro.xosp.display.version' : Parse the date 20160214 from 'XOSP-4.1-OFFICIAL-20160214-Z00A.zip'
+#
+# Version source: ro.modversion
+# Version delimiter: -
+# Version position: 3 (zero based)
+# Version format: yyyyMMdd
+#
+# Example with 'uname -r': Parse the number 239 from '3.4.107~AK.239.OPO.CM12.1'
+#
+# Version source: uname -r
+# Version delimiter: .
+# Version position: 3 (zero based)
+# Version format:
+#
+version_source=ro.xosp.display.version
+version_delimiter=-
+version_position=3
+version_format=yyyyMMdd
