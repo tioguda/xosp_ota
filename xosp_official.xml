@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <Z00A>
-            <Filename>XOSP-4.1-OFFICIAL-20160221-Z00A.zip</Filename>
+            <Filename>XOSP-4.1-OFFICIAL-20160224-Z00A.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -23,7 +23,7 @@
     </Stable>
     <Stable>
         <sprout4>
-            <Filename>XOSP-4.1-OFFICIAL-20160221-sprout4.zip</Filename>
+            <Filename>XOSP-4.1-OFFICIAL-20160224-sprout4.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -44,8 +44,7 @@
     </Stable>
     <Stable>
         <mako>
-            <Filename>XOSP-4.1-OFFICIAL-20160221
-7-mako.zip</Filename>
+            <Filename>XOSP-4.1-OFFICIAL-20160224-mako.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
