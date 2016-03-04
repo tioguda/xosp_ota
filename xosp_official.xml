@@ -11,10 +11,6 @@
             	id="xosp_apps"
             	title="XOSPApps"
             	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759884370</XOSPAppsUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="All Up-to date changes">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -32,10 +28,6 @@
             	id="xosp_apps"
             	title="XOSPApps"
             	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759884906</XOSPAppsUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="test2">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -53,10 +45,6 @@
             	id="xosp_apps"
             	title="XOSPApps"
             	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759885659</XOSPAppsUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="All Up-to date changes">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -74,10 +62,6 @@
             	id="xosp_apps"
             	title="XOSPApps"
             	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759886252</XOSPAppsUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="All Up-to date changes">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -95,10 +79,6 @@
             	id="xosp_apps"
             	title="XOSPApps"
             	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759886108</XOSPAppsUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="All Up-to date changes">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
