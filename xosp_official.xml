@@ -2,21 +2,32 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <Z00A>
-            <Filename>XOSP-4.1-OFFICIAL-20160224-Z00A.zip</Filename>
+            <Filename>XOSP-5.1-OFFICIAL-20160320-Z00A.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest XOSP BUILD">https://androidfilehost.com/?fid=24421527759884378</RomUrl>
-            <XOSPAppsUrl
-            	id="xosp_apps"
-            	title="XOSPApps"
-            	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759884370</XOSPAppsUrl>
+                description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/Z00A/XOSP-5.1-OFFICIAL-20160320-Z00A.zip</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          </Z00A>
     </Stable>
+    
+    <Stable>
+        <Z008>
+            <Filename>XOSP-5.1-OFFICIAL-20160320-Z008.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/Z008/XOSP-5.1-OFFICIAL-20160320-Z008.zip</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+         </Z008>
+    </Stable>
+    
     <Stable>
         <sprout4>
             <Filename>XOSP-4.1-OFFICIAL-20160224-sprout4.zip</Filename>
