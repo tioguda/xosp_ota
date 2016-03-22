@@ -85,7 +85,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest XOSP BUILD">https://basketbuild.com/devs/XOSP/hammerhead</RomUrl>
+                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/hammerhead/XOSP-5.1-OFFICIAL-20160320-hammerhead.zip</RomUrl>
             <XOSPAppsUrl
             	id="xosp_apps"
             	title="XOSPApps"
