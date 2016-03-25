@@ -51,7 +51,7 @@
                 id="open_gapps"
                 title="OpenGApps"
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-        </sprout4>
+        </sprout8>
     </Stable>
     <Stable>
         <mako>
@@ -86,10 +86,6 @@
                 id="rom"
                 title="Rom"
                 description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/hammerhead/XOSP-5.1-OFFICIAL-20160320-hammerhead.zip</RomUrl>
-            <XOSPAppsUrl
-            	id="xosp_apps"
-            	title="XOSPApps"
-            	description="XOSPApps for ROM">https://androidfilehost.com/?fid=24421527759886108</XOSPAppsUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
