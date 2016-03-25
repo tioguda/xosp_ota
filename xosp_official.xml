@@ -29,11 +29,11 @@
     </Stable>
    <Stable>
         <sprout4>
-            <Filename>XOSP-5.1-OFFICIAL-20160320-sprout4.zip</Filename>
+            <Filename>XOSP-5.1-OFFICIAL-20160321-sprout4.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/sprout4/XOSP-5.1-OFFICIAL-20160320-sprout4.zip</RomUrl>
+                description="Download the latest XOSP BUILD">https://basketbuild.com/filedl/devs?dev=XOSP&amp;dl=XOSP/sprout4/XOSP-5.1-OFFICIAL-20160320-sprout4.zip</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
