@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    
+    <!-- NILAC -->
+    
     <Stable>
         <Z00A>
             <Filename>XOSP-5.1-OFFICIAL-20160320-Z00A.zip</Filename>
@@ -27,7 +30,12 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          </Z008>
     </Stable>
-   <Stable>
+    
+    <!-- ***** --->
+    
+    <!-- SHREESHA -->
+    
+    <Stable>
         <sprout4>
             <Filename>XOSP-5.1-OFFICIAL-20160321-sprout4.zip</Filename>
             <RomUrl
@@ -40,6 +48,7 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </sprout4>
     </Stable>
+    
     <Stable>
         <sprout8>
             <Filename>XOSP-5.1-OFFICIAL-20160320-sprout8.zip</Filename>
@@ -53,32 +62,11 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         </sprout8>
     </Stable>
-    <Stable>
-        <mako>
-            <Filename>XOSP-5.1-OFFICIAL-20160320-mako.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.1-OFFICIAL-20160320-mako.zip</RomUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-        </mako>
-    </Stable>
-    <Stable>
-        <armani>
-            <Filename>XOSP-4.1-OFFICIAL-20160224-armani.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download the latest XOSP BUILD">https://androidfilehost.com/?fid=24421527759886253</RomUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-        </armani>
-    </Stable>
+    
+    <!-- ******** -->
+
+    <!-- VIKRANT -->
+    
     <Stable>
         <hammerhead>
             <Filename>XOSP-5.1-OFFICIAL-20160320-hammerhead.zip</Filename>
@@ -92,6 +80,67 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          </hammerhead>
     </Stable>
+    
+    <!-- ******* -->
+    
+    <!-- NITIN -->
+    
+    <Stable>
+        <mako>
+            <Filename>XOSP-5.1-OFFICIAL-20160320-mako.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.1-OFFICIAL-20160320-mako.zip</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </mako>
+    </Stable>
+    
+    <Stable>
+        <armani>
+            <Filename>XOSP-4.1-OFFICIAL-20160224-armani.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">https://androidfilehost.com/?fid=24421527759886253</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+        </armani>
+    </Stable>
+
+    <Stable>
+        <d850>
+            <Filename>XOSP-5.1-OFFICIAL-20160323-d850.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d850/XOSP-5.1-OFFICIAL-20160323-d850.zip</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+         </d850>
+    </Stable>
+    
+    <Stable>
+        <d851>
+            <Filename>XOSP-5.1-OFFICIAL-20160320-d851.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d851/XOSP-5.1-OFFICIAL-20160320-d851.zip</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+         </d851>
+    </Stable>
+    
     <Stable>
         <d855>
             <Filename>XOSP-5.1-OFFICIAL-20160320-d855.zip</Filename>
@@ -105,4 +154,21 @@
                 description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          </d855>
     </Stable>
+    
+    <Stable>
+        <vs985>
+            <Filename>XOSP-5.1-OFFICIAL-20160320-vs985.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/vs985/XOSP-5.1-OFFICIAL-20160320-vs985.zip</RomUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+         </vs985>
+    </Stable>
+    
+    <!-- ***** -->
+    
 </SlimOTA>
