@@ -61,22 +61,22 @@
          		</hammerhead>
     	<!-- NITIN -->
         	<mako>
-            		<Filename>XOSP-5.1-OFFICIAL-20160320-mako.zip</Filename>
+            		<Filename>XOSP-5.2-OFFICIAL-20160329-mako.zip</Filename>
             		<RomUrl
                 		id="rom"
                 		title="Rom"
-                		description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.1-OFFICIAL-20160320-mako.zip</RomUrl>
+                		description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.2-OFFICIAL-20160329-mako.zip</RomUrl>
             		<OpenGappsUrl
                 		id="open_gapps"
                 		title="OpenGApps"
                 		description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         	</mako>
         	<armani>
-	            	<Filename>XOSP-4.1-OFFICIAL-20160224-armani.zip</Filename>
+	            	<Filename>XOSP-5.2-OFFICIAL-20160329-armani.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://androidfilehost.com/?fid=24421527759886253</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/armani/XOSP-5.2-OFFICIAL-20160329-armani.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
