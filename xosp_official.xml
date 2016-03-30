@@ -105,11 +105,11 @@
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d851>
 	        <d855>
-	            	<Filename>XOSP-5.1-OFFICIAL-20160320-d855.zip</Filename>
+	            	<Filename>XOSP-5.2-OFFICIAL-20160330-d855.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d855/XOSP-5.1-OFFICIAL-20160320-d855.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d855/XOSP-5.2-OFFICIAL-20160330-d855.zip</RomUrl>
 			<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
