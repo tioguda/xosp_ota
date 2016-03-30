@@ -137,6 +137,6 @@
 				id="open_gapps"
 				title="OpenGApps"
 				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-		<bacon>
+		</bacon>
     </Stable>   
 </SlimOTA>
