@@ -83,22 +83,22 @@
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         	</armani>
         	<d850>
-	            	<Filename>XOSP-5.1-OFFICIAL-20160323-d850.zip</Filename>
+	            	<Filename>XOSP-5.2-OFFICIAL-20160331-d850.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d850/XOSP-5.1-OFFICIAL-20160323-d850.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d850/XOSP-5.2-OFFICIAL-20160331-d850.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d850>
         	<d851>
-	            	<Filename>XOSP-5.1-OFFICIAL-20160320-d851.zip</Filename>
+	            	<Filename>XOSP-5.2-OFFICIAL-20160330-d851.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d851/XOSP-5.1-OFFICIAL-20160320-d851.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d851/XOSP-5.2-OFFICIAL-20160330-d851.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
@@ -116,11 +116,11 @@
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d855>
         	<vs985>
-	            	<Filename>XOSP-5.1-OFFICIAL-20160320-vs985.zip</Filename>
+	            	<Filename>XOSP-5.2-OFFICIAL-20160330-vs985.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/vs985/XOSP-5.1-OFFICIAL-20160320-vs985.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/vs985/XOSP-5.2-OFFICIAL-20160330-vs985.zip</RomUrl>
 			<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
