@@ -72,11 +72,11 @@
                 		description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         	</mako>
         	<armani>
-	            	<Filename>XOSP-5.2-OFFICIAL-20160329-armani.zip</Filename>
+	            	<Filename>XOSP-5.3-OFFICIAL-20160412-armani.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/armani/XOSP-5.2-OFFICIAL-20160329-armani.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/armani/XOSP-5.3-OFFICIAL-20160412-armani.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
