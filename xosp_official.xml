@@ -3,22 +3,22 @@
     <Stable>
     	<!-- NILAC -->
         	<Z00A>
-			<Filename>XOSP-5.3-OFFICIAL-20160412-Z00A.zip</Filename>
+			<Filename>XOSP-5.4-OFFICIAL-20160423-Z00A.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/Z00A/XOSP-5.3-OFFICIAL-20160412-Z00A.zip</RomUrl>
+				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/Z00A/XOSP-5.4-OFFICIAL-20160423-Z00A.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="OpenGApps"
 				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 		</Z00A>
 		<Z008>
-			<Filename>XOSP-5.3-OFFICIAL-20160412-Z008.zip</Filename>
+			<Filename>XOSP-5.4-OFFICIAL-20160423-Z008.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/Z008/XOSP-5.3-OFFICIAL-20160412-Z008.zip</RomUrl>
+				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/Z008/XOSP-5.4-OFFICIAL-20160423-Z008.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="OpenGApps"
