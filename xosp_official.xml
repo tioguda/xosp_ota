@@ -61,99 +61,99 @@
          		</hammerhead>
     	<!-- NITIN -->
         	<mako>
-            		<Filename>XOSP-5.3-OFFICIAL-20160412-mako.zip</Filename>
+            		<Filename>XOSP-5.4-OFFICIAL-20160423-mako.zip</Filename>
             		<RomUrl
                 		id="rom"
                 		title="Rom"
-                		description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.3-OFFICIAL-20160412-mako.zip</RomUrl>
+                		description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.4-OFFICIAL-20160423-mako.zip</RomUrl>
             		<OpenGappsUrl
                 		id="open_gapps"
                 		title="OpenGApps"
                 		description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         	</mako>
         	<armani>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160412-armani.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160423-armani.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/armani/XOSP-5.3-OFFICIAL-20160412-armani.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/armani/XOSP-5.4-OFFICIAL-20160423-armani.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
         	</armani>
         	<d850>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-d850.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-d850.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d850/XOSP-5.3-OFFICIAL-20160413-d850.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d850/XOSP-5.4-OFFICIAL-20160424-d850.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d850>
         	<d851>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-d851.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-d851.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d851/XOSP-5.3-OFFICIAL-20160413-d851.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d851/XOSP-5.4-OFFICIAL-20160424-d851.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d851>
 	        <d852>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-d852.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-d852.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d852%20(LG%20G3)/XOSP-5.3-OFFICIAL-20160413-d852.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d852%20(LG%20G3)/XOSP-5.4-OFFICIAL-20160424-d852.zip</RomUrl>
 	            	<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d852>
 	        <d855>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-d855.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-d855.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d855/XOSP-5.3-OFFICIAL-20160413-d855.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/d855/XOSP-5.4-OFFICIAL-20160424-d855.zip</RomUrl>
 			<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</d855>
 	        <f400>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-f400.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-f400.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/f400%20(LG%20G3)/XOSP-5.3-OFFICIAL-20160413-f400.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/f400%20(LG%20G3)/XOSP-5.4-OFFICIAL-20160424-f400.zip</RomUrl>
 			<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</f400>
 	        <ls990>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-ls990.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-ls990.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/ls990/XOSP-5.3-OFFICIAL-20160413-ls990.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/ls990/XOSP-5.4-OFFICIAL-20160424-ls990.zip</RomUrl>
 			<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</ls990>         	
         	<vs985>
-	            	<Filename>XOSP-5.3-OFFICIAL-20160413-vs985.zip</Filename>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160424-vs985.zip</Filename>
 	            	<RomUrl
 	                	id="rom"
 	                	title="Rom"
-	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/vs985/XOSP-5.3-OFFICIAL-20160413-vs985.zip</RomUrl>
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/vs985/XOSP-5.4-OFFICIAL-20160424-vs985.zip</RomUrl>
 			<OpenGappsUrl
 	                	id="open_gapps"
 	                	title="OpenGApps"
