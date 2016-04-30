@@ -161,11 +161,11 @@
          	</vs985>
          <!-- TUSHAR -->
         	<bacon>
-			<Filename>XOSP-5.3-OFFICIAL-20160412-bacon.zip</Filename>
+			<Filename>XOSP-5.4-OFFICIAL-20160430-bacon.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
-				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/bacon/XOSP-5.3-OFFICIAL-20160412-bacon.zip</RomUrl>
+				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/XOSP/bacon/XOSP-5.4-OFFICIAL-20160430-bacon.zip</RomUrl>
 			<OpenGappsUrl
 				id="open_gapps"
 				title="OpenGApps"
