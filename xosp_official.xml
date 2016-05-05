@@ -159,6 +159,17 @@
 	                	title="OpenGApps"
 	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
          	</vs985>
+        	<h811>
+	            	<Filename>XOSP-5.4-OFFICIAL-20160505-h811.zip</Filename>
+	            	<RomUrl
+	                	id="rom"
+	                	title="Rom"
+	                	description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/h811%20(LG%20G4)/XOSP-5.4-OFFICIAL-20160505-h811.zip</RomUrl>
+			<OpenGappsUrl
+	                	id="open_gapps"
+	                	title="OpenGApps"
+	                	description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+         	</h811>
          <!-- TUSHAR -->
         	<bacon>
 			<Filename>XOSP-5.4-OFFICIAL-20160430-bacon.zip</Filename>
