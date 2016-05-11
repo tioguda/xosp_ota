@@ -183,7 +183,7 @@
 				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
 		</bacon>
 		<i9100>
-			<Filename>XOSP-5.4-OFFICIAL-20160430-i9100.zip</Filename>
+			<Filename>XOSP-5.4-OFFICIAL-20160510-i9100.zip</Filename>
 			<RomUrl
 				id="rom"
 				title="Rom"
@@ -192,6 +192,17 @@
 				id="open_gapps"
 				title="OpenGApps"
 				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-		<i9100> 
+		</i9100> 
+		<oneplus2>
+			<Filename>XOSP-5.4-OFFICIAL-20160508-oneplus2.zip</Filename>
+			<RomUrl
+				id="rom"
+				title="Rom"
+				description="Download the latest XOSP Build">https://www.androidfilehost.com/?fid=24533103863138214</RomUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="OpenGApps"
+				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		</oneplus2> 
     </Stable>   
 </SlimOTA>
