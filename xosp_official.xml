@@ -61,11 +61,11 @@
          		</hammerhead>
     	<!-- NITIN -->
         	<mako>
-            		<Filename>XOSP-5.4-OFFICIAL-20160423-mako.zip</Filename>
+            		<Filename>XOSP-5.4-OFFICIAL-20160512-mako.zip</Filename>
             		<RomUrl
                 		id="rom"
                 		title="Rom"
-                		description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.4-OFFICIAL-20160423-mako.zip</RomUrl>
+                		description="Download the latest XOSP BUILD">https://basketbuild.com/uploads/devs/XOSP/mako/XOSP-5.4-OFFICIAL-20160512-mako.zip</RomUrl>
             		<OpenGappsUrl
                 		id="open_gapps"
                 		title="OpenGApps"
