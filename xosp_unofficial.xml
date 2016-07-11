@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+    	<!-- tioguda -->
+        	<serrano3gxx>
+			<Filename>XOSP-6.2-UNOFFICIAL-20160711-serrano3gxx.zip</Filename>
+			<RomUrl
+				id="rom"
+				title="Rom"
+				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/tioguda/XOSP/serrano3gxx/6.0.x/XOSP-6.2-UNOFFICIAL-20160711-serrano3gxx.zip</RomUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="OpenGApps"
+				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		</serrano3gxx>
+        	<serranodsdd>
+			<Filename>XOSP-6.2-UNOFFICIAL-20160711-serranodsdd.zip</Filename>
+			<RomUrl
+				id="rom"
+				title="Rom"
+				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/tioguda/XOSP/serranodsdd/6.0.x/XOSP-6.2-UNOFFICIAL-20160711-serranodsdd.zip</RomUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="OpenGApps"
+				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		</serranodsdd>
+        	<serranoltexx>
+			<Filename>XOSP-6.2-UNOFFICIAL-20160711-serranoltexx.zip</Filename>
+			<RomUrl
+				id="rom"
+				title="Rom"
+				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/tioguda/XOSP/serranoltexx/6.0.x/XOSP-6.2-UNOFFICIAL-20160711-serranoltexx.zip</RomUrl>
+			<OpenGappsUrl
+				id="open_gapps"
+				title="OpenGApps"
+				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		</serranoltexx>
+    </Stable>   
+</SlimOTA>

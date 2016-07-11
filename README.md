@@ -1,1 +1,1 @@
-# Repo containing OTA configuration for XOSPOTA 
+# Repo containing OTA configuration for XOSPOTA
