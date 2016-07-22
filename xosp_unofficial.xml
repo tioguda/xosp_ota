@@ -1,39 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-    	<!-- tioguda -->
-        	<serrano3gxx>
-			<Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-20160719-serrano3gxx.zip</Filename>
-			<RomUrl
-				id="rom"
-				title="Rom"
-				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/tioguda/XOSP/serrano3gxx/6.0.x/XOSP-6.3-FINAL-MM-UNOFFICIAL-20160719-serrano3gxx.zip</RomUrl>
-			<OpenGappsUrl
-				id="open_gapps"
-				title="OpenGApps"
-				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-		</serrano3gxx>
-        	<serranodsdd>
-			<Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-20160719-serranodsdd.zip</Filename>
-			<RomUrl
-				id="rom"
-				title="Rom"
-				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/tioguda/XOSP/serranodsdd/6.0.x/XOSP-6.3-FINAL-MM-UNOFFICIAL-20160719-serranodsdd</RomUrl>
-			<OpenGappsUrl
-				id="open_gapps"
-				title="OpenGApps"
-				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-		</serranodsdd>
-        	<serranoltexx>
-			<Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-20160719-serranoltexx.zip</Filename>
-			<RomUrl
-				id="rom"
-				title="Rom"
-				description="Download the latest XOSP Build">https://basketbuild.com/uploads/devs/tioguda/XOSP/serranoltexx/6.0.x/XOSP-6.3-FINAL-MM-UNOFFICIAL-20160719-serranoltexx.zip</RomUrl>
-			<OpenGappsUrl
-				id="open_gapps"
-				title="OpenGApps"
-				description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-		</serranoltexx>
-    </Stable>   
+        <serrano3gxx>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP Build">https://www.androidfilehost.com/?w=files&amp;flid=73122</RomUrl>
+            <XOSPAppsUrl
+            	id="xosp_apps"
+            	title="XOSPApps"
+            	description="XOSPApps for ROM">http://downloads.xosp.org/dlfile.php?s=a&&v=dl&&x_p_n=XOSPApps-Universal-6.3-16-07-2016.zip</XOSPAppsUrl>
+            <OpenGappsUrl
+		id="open_gapps"
+		title="OpenGApps"
+		description="Download latest OpenGApps">http://opengapps.org/</OpenGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XOSP S4 Mini thread on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
+        </serrano3gxx>
+        <serranodsdd>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP Build">https://www.androidfilehost.com/?w=files&amp;flid=73128</RomUrl>
+            <XOSPAppsUrl
+            	id="xosp_apps"
+            	title="XOSPApps"
+            	description="XOSPApps for ROM">http://downloads.xosp.org/dlfile.php?s=a&&v=dl&&x_p_n=XOSPApps-Universal-6.3-16-07-2016.zip</XOSPAppsUrl>
+            <OpenGappsUrl
+		id="open_gapps"
+		title="OpenGApps"
+		description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XOSP S4 Mini thread on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
+        </serranodsdd>
+        <serranoltexx>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP Build">https://www.androidfilehost.com/?w=files&amp;flid=73134</RomUrl>
+            <XOSPAppsUrl
+            	id="xosp_apps"
+            	title="XOSPApps"
+            	description="XOSPApps for ROM">http://downloads.xosp.org/dlfile.php?s=a&&v=dl&&x_p_n=XOSPApps-Universal-6.3-16-07-2016.zip</XOSPAppsUrl>
+            <OpenGappsUrl
+		id="open_gapps"
+		title="OpenGApps"
+		description="Download latest OpenGApps">http://opengapps.org/</OpenGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit XOSP S4 Mini thread on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
+        </serranoltexx>
+    </Stable>
 </SlimOTA>
