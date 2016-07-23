@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <serrano3gxx>
-            <Filename></Filename>
+            <Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-serrano3gxx-20160723.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -10,7 +10,7 @@
             <XOSPAppsUrl
             	id="xosp_apps"
             	title="XOSPApps"
-            	description="XOSPApps for ROM">http://downloads.xosp.org/dlfile.php?s=a&&v=dl&&x_p_n=XOSPApps-Universal-6.3-16-07-2016.zip</XOSPAppsUrl>
+            	description="XOSPApps for ROM">http://downloads.xosp.org/#a_downloads</XOSPAppsUrl>
             <OpenGappsUrl
 		id="open_gapps"
 		title="OpenGApps"
@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit XOSP S4 Mini thread on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
+                description="Visit XOSP thread for S4 mini on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
         </serrano3gxx>
         <serranodsdd>
             <Filename></Filename>
@@ -29,7 +29,7 @@
             <XOSPAppsUrl
             	id="xosp_apps"
             	title="XOSPApps"
-            	description="XOSPApps for ROM">http://downloads.xosp.org/dlfile.php?s=a&&v=dl&&x_p_n=XOSPApps-Universal-6.3-16-07-2016.zip</XOSPAppsUrl>
+            	description="XOSPApps for ROM">http://downloads.xosp.org/#a_downloads</XOSPAppsUrl>
             <OpenGappsUrl
 		id="open_gapps"
 		title="OpenGApps"
@@ -37,7 +37,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit XOSP S4 Mini thread on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
+                description="Visit XOSP thread for S4 mini on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
         </serranodsdd>
         <serranoltexx>
             <Filename></Filename>
@@ -48,7 +48,7 @@
             <XOSPAppsUrl
             	id="xosp_apps"
             	title="XOSPApps"
-            	description="XOSPApps for ROM">http://downloads.xosp.org/dlfile.php?s=a&&v=dl&&x_p_n=XOSPApps-Universal-6.3-16-07-2016.zip</XOSPAppsUrl>
+            	description="XOSPApps for ROM">http://downloads.xosp.org/#a_downloads</XOSPAppsUrl>
             <OpenGappsUrl
 		id="open_gapps"
 		title="OpenGApps"
@@ -56,7 +56,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit XOSP S4 Mini thread on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
+                description="Visit XOSP thread for S4 mini on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
         </serranoltexx>
     </Stable>
 </SlimOTA>
