@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <serrano3gxx>
-            <Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-serrano3gxx-20160723.zip</Filename>
+            <Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-serrano3gxx-20160723</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
