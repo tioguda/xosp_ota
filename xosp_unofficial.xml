@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <serrano3gxx>
-            <Filename>XOSP-6.3-FINAL-MM-UNOFFICIAL-serrano3gxx-20160723</Filename>
+            <Filename>XOSP-6.3-serrano3gxx-FINAL-MM-UNOFFICIAL-20160829.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,14 +14,14 @@
             <OpenGappsUrl
 		id="open_gapps"
 		title="OpenGApps"
-		description="Download latest OpenGApps">http://opengapps.org/</OpenGappsUrl>
+		description="Download latest OpenGApps">http://opengapps.org/?api=6.0&variant=pico#</OpenGappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
                 description="Visit XOSP thread for S4 mini on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
         </serrano3gxx>
         <serranodsdd>
-            <Filename></Filename>
+            <Filename>XOSP-6.3-serranodsdd-FINAL-MM-UNOFFICIAL-20160829.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -33,14 +33,14 @@
             <OpenGappsUrl
 		id="open_gapps"
 		title="OpenGApps"
-		description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		description="Download latest OpenGApps">http://opengapps.org/?api=6.0&variant=pico#</OpenGappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
                 description="Visit XOSP thread for S4 mini on XDA">http://forum.xda-developers.com/galaxy-s4-mini/development/rom-xosp-6-2-s4-mini-duos-t3398889/</XDAUrl>
         </serranodsdd>
         <serranoltexx>
-            <Filename></Filename>
+            <Filename>XOSP-6.3-serranoltexx-FINAL-MM-UNOFFICIAL-20160829.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -52,7 +52,7 @@
             <OpenGappsUrl
 		id="open_gapps"
 		title="OpenGApps"
-		description="Download latest OpenGApps">http://opengapps.org/</OpenGappsUrl>
+		description="Download latest OpenGApps">http://opengapps.org/?api=6.0&variant=pico#</OpenGappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
